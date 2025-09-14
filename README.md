@@ -1,28 +1,22 @@
+# PlacementOS
 
-PlacementOS - Your Career Operating System
-PlacementOS is a comprehensive, single-page web application built with HTML, CSS, and JavaScript. It serves as a one-stop guide for students preparing for IT placements, providing a structured roadmap from foundational skills to advanced interview preparation.
+**Your Career Operating System**  
+A single-page web app for IT placement preparation—from aptitude and DSA to advanced interview strategies and portfolio building.
 
-Live Demo
-https://prashanthdudekula.github.io/PlacementOs/
 
-Features
-Authentication Gate: A professional and clean login/sign-up page.
+## Features
 
-Structured Learning Paths: A step-by-step guide covering:
+- **Authentication Gate**: Clean, professional login/sign-up interface.
+- **Structured Learning Paths**: Step-by-step guides for aptitude, Data Structures & Algorithms (DSA), and core CS subjects (OS, DBMS, CN).
+- **Portfolio Building**: Curated project ideas and best practices for students.
+- **Interview Mastery**: Actionable strategies for technical and HR interviews, including company-specific guides.
+- **Responsive Design**: Works perfectly on desktop and mobile devices.
+- **Theme Toggle**: Easy-to-use dark/light mode switcher.
 
-Skill Development (Aptitude & Communication)
+## Tech Stack
 
-Data Structures & Algorithms (DSA)
+- **Frontend**: HTML5, CSS3, JavaScript
 
-Core CS Subjects (OS, DBMS, CN)
 
-Portfolio Building: Curated project ideas and best practices for creating a strong portfolio.
+- **LiveDemo:https://prashanthdudekula.github.io/PlacementOs/
 
-Interview Mastery: Actionable strategies for technical and HR interviews, including company-specific guides.
-
-Responsive Design: A seamless experience on both desktop and mobile devices.
-
-Theme Toggle: A user-friendly dark/light mode switcher.
-
-Tech Stack
-Front-End: HTML5, CSS3,  JavaScript
